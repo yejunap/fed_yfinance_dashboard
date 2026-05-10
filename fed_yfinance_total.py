@@ -9,6 +9,8 @@ FED Total Dashboard
 import streamlit as st
 import pandas as pd
 import json
+import matplotlib
+matplotlib.use('Agg')  # Use non-interactive backend for server environments
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
@@ -37,6 +39,8 @@ plt.rcParams['axes.linewidth'] = 0.5
 plt.rcParams['grid.color'] = 'lightgray'
 plt.rcParams['grid.linestyle'] = '--'
 plt.rcParams['grid.linewidth'] = 0.8
++++++++
+
 
 # =========================
 # Paths
