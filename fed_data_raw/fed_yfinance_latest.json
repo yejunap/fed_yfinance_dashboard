@@ -1,0 +1,251 @@
+{
+  "timestamp": "2026-05-09T13:51:16.240915",
+  "data": {
+    "XLK": {
+      "name": "Tech Sector",
+      "category": "Technology",
+      "date": "2026-05-08",
+      "value": 175.52000427246094
+    },
+    "CLOU": {
+      "name": "Cloud",
+      "category": "Technology",
+      "date": "2026-05-08",
+      "value": 22.950000762939453
+    },
+    "CIBR": {
+      "name": "Cybersecurity",
+      "category": "Technology",
+      "date": "2026-05-08",
+      "value": 75.31999969482422
+    },
+    "BUG": {
+      "name": "Cybersecurity2",
+      "category": "Technology",
+      "date": "2026-05-08",
+      "value": 30.809999465942383
+    },
+    "BOTZ": {
+      "name": "Robotics/AI",
+      "category": "Technology",
+      "date": "2026-05-08",
+      "value": 41.45000076293945
+    },
+    "XLE": {
+      "name": "Energy Sector",
+      "category": "Energy",
+      "date": "2026-05-08",
+      "value": 55.70000076293945
+    },
+    "CL=F": {
+      "name": "Crude Oil",
+      "category": "Energy",
+      "date": "2026-05-08",
+      "value": 95.41999816894531
+    },
+    "NG=F": {
+      "name": "Natural Gas",
+      "category": "Energy",
+      "date": "2026-05-08",
+      "value": 2.756999969482422
+    },
+    "URA": {
+      "name": "Uranium",
+      "category": "Energy",
+      "date": "2026-05-08",
+      "value": 55.18000030517578
+    },
+    "XLF": {
+      "name": "Financials",
+      "category": "Financial",
+      "date": "2026-05-08",
+      "value": 51.2400016784668
+    },
+    "KRE": {
+      "name": "Regional Banks",
+      "category": "Financial",
+      "date": "2026-05-08",
+      "value": 69.8499984741211
+    },
+    "FINX": {
+      "name": "Fintech",
+      "category": "Financial",
+      "date": "2026-05-08",
+      "value": 25.700000762939453
+    },
+    "XLI": {
+      "name": "Industrials",
+      "category": "Industrials",
+      "date": "2026-05-08",
+      "value": 173.1999969482422
+    },
+    "ITA": {
+      "name": "Defense",
+      "category": "Industrials",
+      "date": "2026-05-08",
+      "value": 223.49000549316406
+    },
+    "XAR": {
+      "name": "Aerospace",
+      "category": "Industrials",
+      "date": "2026-05-08",
+      "value": 265.3999938964844
+    },
+    "XLV": {
+      "name": "Healthcare",
+      "category": "Healthcare",
+      "date": "2026-05-08",
+      "value": 143.49000549316406
+    },
+    "XBI": {
+      "name": "Biotech",
+      "category": "Healthcare",
+      "date": "2026-05-08",
+      "value": 134.7100067138672
+    },
+    "PPH": {
+      "name": "Pharma",
+      "category": "Healthcare",
+      "date": "2026-05-08",
+      "value": 99.83999633789062
+    },
+    "XLY": {
+      "name": "Consumer Disc",
+      "category": "Consumer",
+      "date": "2026-05-08",
+      "value": 120.19999694824219
+    },
+    "XLP": {
+      "name": "Consumer Staple",
+      "category": "Consumer",
+      "date": "2026-05-08",
+      "value": 84.18000030517578
+    },
+    "XLU": {
+      "name": "Utilities",
+      "category": "Utilities",
+      "date": "2026-05-08",
+      "value": 44.720001220703125
+    },
+    "XLRE": {
+      "name": "REITs",
+      "category": "Utilities",
+      "date": "2026-05-08",
+      "value": 44.40999984741211
+    },
+    "XLB": {
+      "name": "Materials",
+      "category": "Materials",
+      "date": "2026-05-08",
+      "value": 51.59000015258789
+    },
+    "REMX": {
+      "name": "Rare Earth",
+      "category": "Materials",
+      "date": "2026-05-08",
+      "value": 106.37999725341797
+    },
+    "GC=F": {
+      "name": "Gold",
+      "category": "Materials",
+      "date": "2026-05-08",
+      "value": 4720.39990234375
+    },
+    "SI=F": {
+      "name": "Silver",
+      "category": "Materials",
+      "date": "2026-05-08",
+      "value": 80.3949966430664
+    },
+    "HG=F": {
+      "name": "Copper",
+      "category": "Materials",
+      "date": "2026-05-08",
+      "value": 6.249000072479248
+    },
+    "^VIX": {
+      "name": "VIX",
+      "category": "Volatility",
+      "date": "2026-05-08",
+      "value": 17.190000534057617
+    },
+    "^TNX": {
+      "name": "US 10Y Yield",
+      "category": "Volatility",
+      "date": "2026-05-08",
+      "value": 4.363999843597412
+    },
+    "TLT": {
+      "name": "Long Treasury",
+      "category": "Volatility",
+      "date": "2026-05-08",
+      "value": 86.08000183105469
+    },
+    "HYG": {
+      "name": "High Yield Bond",
+      "category": "Volatility",
+      "date": "2026-05-08",
+      "value": 80.13999938964844
+    },
+    "DX-Y.NYB": {
+      "name": "Dollar Index",
+      "category": "Volatility",
+      "date": "2026-05-08",
+      "value": 97.83999633789062
+    },
+    "FXI": {
+      "name": "China",
+      "category": "International",
+      "date": "2026-05-08",
+      "value": 37.2400016784668
+    },
+    "INDA": {
+      "name": "India",
+      "category": "International",
+      "date": "2026-05-08",
+      "value": 49.84000015258789
+    },
+    "EWJ": {
+      "name": "Japan",
+      "category": "International",
+      "date": "2026-05-08",
+      "value": 92.22000122070312
+    },
+    "EWY": {
+      "name": "Korea",
+      "category": "International",
+      "date": "2026-05-08",
+      "value": 190.1999969482422
+    },
+    "EWT": {
+      "name": "Taiwan",
+      "category": "International",
+      "date": "2026-05-08",
+      "value": 96.11000061035156
+    },
+    "^GSPC": {
+      "name": "S&P 500",
+      "category": "Global Indices",
+      "date": "2026-05-08",
+      "value": 7398.93017578125
+    },
+    "^IXIC": {
+      "name": "NASDAQ",
+      "category": "Global Indices",
+      "date": "2026-05-08",
+      "value": 26247.080078125
+    },
+    "^DJI": {
+      "name": "Dow Jones",
+      "category": "Global Indices",
+      "date": "2026-05-08",
+      "value": 49609.16015625
+    },
+    "^RUT": {
+      "name": "Russell 2000",
+      "category": "Global Indices",
+      "date": "2026-05-08",
+      "value": 2861.2099609375
+    }
+  }
+}
