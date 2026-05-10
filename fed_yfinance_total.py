@@ -39,7 +39,6 @@ plt.rcParams['axes.linewidth'] = 0.5
 plt.rcParams['grid.color'] = 'lightgray'
 plt.rcParams['grid.linestyle'] = '--'
 plt.rcParams['grid.linewidth'] = 0.8
-+++++++
 
 
 # =========================
